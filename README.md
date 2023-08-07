@@ -9,7 +9,7 @@ This project is the culmination of my learning from the Django OpenAI Text Compl
 - **Multi-Language Support:** Choose from a variety of programming languages for your coding needs.
 - **Database Integration:** Store code responses in a database for future reference.
 - **Code History:** Access and view past code responses stored in the database.
-- **Tech Stack:** Developed using Python, Django, and Bootstrap Framework, providing an engaging user experience.
+- **Tech Stack:** Developed using Python, Django, and CSS Bootstrap Framework, providing an engaging user experience.
 - **API Connectivity:** Integrated OpenAI API using an API key, processing and displaying responses on the app's homepage.
 
 ## What I Learned
